@@ -5,6 +5,6 @@ A simple Python-based tool to download YouTube videos and audio directly to your
 ## Features
 
 - Download full videos in various resolutions
-- Extract audio only (MP3)
+- Extract audio only (MP3) (audio.py)
 - Supports playlists
 - Lightweight and easy to run
